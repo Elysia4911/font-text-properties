@@ -1,7 +1,7 @@
 /* 
     ---------------------------------------------------------------
     Add your name to this file below:
-    NAME: 
+    NAME: Anthony Kim
     ---------------------------------------------------------------
 */
 
@@ -46,6 +46,8 @@ h1, h2, h3{
 	/* center align the text */
 	/* use a web font here (instructions on page) */
 	/* make the heading text all small caps style */
+
+	text-align: center;
 }
 
 h2{
